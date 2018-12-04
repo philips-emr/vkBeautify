@@ -1,0 +1,6 @@
+{
+  "name": "vkbeautify",
+  "version": "1.0.0",
+  "description": "javascript  plugin to **pretty-print** or **minify** text in **XML**, **JSON**, **CSS** and **SQL** formats.",
+  "main": "main.js"
+}
